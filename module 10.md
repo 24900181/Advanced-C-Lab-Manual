@@ -105,6 +105,7 @@ void insert(float data)
 
 Output:
 
+<img width="698" height="502" alt="image" src="https://github.com/user-attachments/assets/44adfbc0-1165-4d42-8a26-29b3a400f6fb" />
 
  
 Result:
